@@ -1,10 +1,7 @@
-from turtle import up
-from webbrowser import get
 import streamlit as st
 import pandas as pd
 import os
 import os.path
-from time import process_time
 
 from io import BytesIO, IOBase
 import plotly.express as px  # pip install plotly-express
@@ -20,7 +17,7 @@ st.title('🚀 Auto Diary Report Chumphon 📊 ☕')
 
 
 def upload_file_process():
-    
+
     try:
             uploaded_file = st.file_uploader("Choose a file")
 
