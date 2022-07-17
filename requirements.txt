@@ -1,0 +1,7 @@
+ipywidgets
+asyncio
+streamlit
+aiohttp
+plotly-express
+openpyxl
+
