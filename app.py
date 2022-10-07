@@ -44,8 +44,11 @@ def upload_file_process():
 
 
 def download_file():
- with open('รายงานประจำวันฝ่ายระบบส่งสัญญาณชุมพร.xlsx', 'rb') as my_file:
-  st.download_button(label = 'Download', data = my_file, file_name = 'รายงานประจำวัน_success.xlsx', mime = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet')   
+ with open('dataFinal.xlsx', 'rb') as my_file:
+  st.download_button(label = 'Download', 
+  data = my_file, 
+  file_name = 'report_success.xlsx', 
+  mime = 'application/vnd.ms-excel')   
 
 
 def button_run_app():
