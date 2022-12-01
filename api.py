@@ -243,8 +243,8 @@ def upload_file_process():
             sheet["J13"] = ird_tas_cn_a
             sheet["K13"] = ird_tas_lm_b
             sheet["L13"] = ird_tas_cn_b
-            sheet["E13"] = sfn_tas
-            sheet["F13"] = em_tas
+            sheet["G13"] = sfn_tas
+            sheet["H13"] = em_tas
 
             sheet["I14"] = ird_lhs_lm_a
             sheet["J14"] = ird_lhs_cn_a
