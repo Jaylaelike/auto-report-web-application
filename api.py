@@ -15,10 +15,10 @@ def upload_file_process():
             completeName = os.path.join(save_path, name_of_file)
 
             if (fileContent != ''):
-                            url_list = ['https://script.google.com/macros/s/AKfycbwH4k8SD5F6duZLthsa2q3D2wtJvpcggY5HtMC479aB1yg91pchlGk65WVQaDVYfLhd_g/exec',
-                                        'https://script.google.com/macros/s/AKfycbzx8ruu5KJiNctKp12OgFI3XP4dfn_ffDdRZMCD8mZmHbzKuYmfKzb7T8-cAz69mYdt-A/exec',
-                                        'https://script.google.com/macros/s/AKfycbyoX7cM1Ejkeej7N-TKNAR--l6ZlGSBa0FPiy9jFHq0BU3xyMUbRyHoY5s5Wp9nM41ANg/exec',
-                                        'https://script.google.com/macros/s/AKfycby2cC69FuKvS3-n1pG3WyE95Lj7CL9ut5k17BgYmbCCvjLB0GA8M5E5FU3K8ya8F_Xk/exec',
+                            url_list = ['https://script.google.com/macros/s/AKfycbz9u2aJoJzA4ZM4g2t_dGQk3McnyPW9rfUFxxdcNbHuNaXf3HRSyyY4nTwiQkByRpMRLg/exec',
+                                        'https://script.google.com/macros/s/AKfycbytd6cV4qfyiuS6QnQPeFZwqccU2-vqv9tnL4cRsffmLVFQOB1FAO6HZSbVD7PjLp_eLA/exec',
+                                        'https://script.google.com/macros/s/AKfycbzyyAG4ZpI2jdUJ3ld6C-_sAulMwTC7pZYsCqHa-R4lfPZgEt_J7gJFV1LXp3hgAmC-/exec',
+                                        'https://script.google.com/macros/s/AKfycbycKKkH20a8rl8-QWB8CrnM_j8eD6LpadIeRn73mDzL_J3h7PX6u2ohagmt9smYiY1PxQ/exec',
                                         'https://script.google.com/macros/s/AKfycbzsnI5ILJLerqWqLhKAPpgESAVDA8SNAnP3p2vMRT06SI-jD6GsP8bO4IB4_oeDRTs8Gw/exec',
                                         'https://script.google.com/macros/s/AKfycbzv9izLctRhphOIn4OD2HUgQQuttu8lOIfrh6Lod9W5mbtVVlyFQC1cwdP81SEtyH6oXQ/exec',
                                         'https://script.google.com/macros/s/AKfycbyWPDK5oe2RhlSxzDsDhVvooI_N90BmhIFdBengbgO7Aq6ZwAgvqhWdI1EyVfkGl9kW/exec',
