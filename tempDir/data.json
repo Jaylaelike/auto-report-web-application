@@ -1,0 +1,26 @@
+['chp',
+rng
+pkk
+'hua
+pnp
+tsk
+Lhs
+swi
+'kbr
+kpo
+'pht
+kai
+tas
+"chp combiner'
+tsk combiner'
+rng_ combiner
+pht combiner.
+kpo combiner
+'kai combiner'
+'sfn all'
+"Loadups all'
+pbi'
+]
+
+
+{'DateTime': '9/5/2566 05:39:21', 'PowerMux(%)': 98, 'PowerMux(W)': 1720, 'ReflectMux(%)': 0, 'ReflectMux(W)': 0, 'MER': 37.1, 'IM': -39.2, 'IRD_A_C/N': 17.87, 'IRD_A_LM': 13.19, 'IRD_B_C/N': 17.89, 'IRD_B_LM': 13.21, 'UPSRuntime': 43, 'MuxOnAnt': 1, 'ResOnAnt': 0, 'TempTxRoom': 29, 'TempUPSRoom': 29, 'TempGenRoom': 31}, {'DateTime': '8/5/2566 20:39:18', 'PowerMux(%)': 101, 'PowerMux(W)': 570, 'ReflectMux(%)': 0, 'ReflectMux(W)': 0, 'MER': 39.5, 'IM': -43.9, 'IRD_A_C/N': 15.36, 'IRD_A_LM': 10.68, 'IRD_B_C/N': 15.37, 'IRD_B_LM': 10.69, 'UPSRuntime': 73, 'MuxOnAnt': 1, 'ResOnAnt': 0, 'TempTxRoom': 30, 'TempUPSRoom': 26, 'TempGenRoom': 31}, {'DateTime': '9/5/2566 02:39:20', 'PowerMux(%)': 103, 'PowerMux(W)': 826, 'ReflectMux(%)': 0, 'ReflectMux(W)': 0, 'MER': 37, 'IM': -39.6, 'IRD_A_C/N': 17.48, 'IRD_A_LM': 12.81, 'IRD_B_C/N': 17.47, 'IRD_B_LM': 12.79, 'UPSRuntime': 56, 'MuxOnAnt': 1, 'ResOnAnt': 0, 'TempTxRoom': 33}, {'DateTime': '9/5/2566 05:39:10', 'PowerMux(%)': '', 'PowerMux(W)': '', 'ReflectMux(%)': '', 'ReflectMux(W)': '', 'MER': '', 'IM': '', 'IRD_A_C/N': 14.67, 'IRD_A_LM': 9.99, 'IRD_B_C/N': 14.7, 'IRD_B_LM': 10.02, 'MuxOnAnt': 1, 'ResOnAnt': 0, 'TempTxRoom': 27}, {'DateTime': '9/5/2566 05:39:10', 'PowerMux(W)': 54.9, 'IRD_A_CN': 14.33, 'IRD_A_LM': 9.65}, {'DateTime': '9/5/2566 05:39:10', 'PowerA(W)': 150, 'Return_LossA': 25, 'PowerB(W)': 0, 'Return_LossB': 0, 'IRD_A_CN': 19.14, 'IRD_A_LM': 14.46, 'IRD_B_CN': 19.14, 'IRD_B_LM': 14.46}, {'DateTime': '9/5/2566 05:39:10', 'IRD_A_CN': 16.82, 'IRD_A_LM': 12.15, 'IRD_B_CN': 16.86, 'IRD_B_LM': 12.18, 'UPSRuntime': 36}, {'DateTime': '9/5/2566 05:39:10', 'PowerA(W)': 0, 'Return_LossA': 0, 'PowerB(W)': 200, 'Return_LossB': 26, 'IRD_A_CN': 16.84, 'IRD_B_CN': 16.76, 'IRD_A_LM': 12.16, 'IRD_B_LM': 12.08}, {'DateTime': '9/5/2566 05:39:10', 'PowerA(W)': 77, 'IRD_A_CN': 16.23, 'IRD_A_LM': 11.55}, {'DateTime': '9/5/2566 05:39:10', 'Power(W)': 63, 'IRD_A_CN': 17.66, 'IRD_A_LM': 12.98}, {'DateTime': '9/5/2566 05:39:10', 'Power(W)': 77.2, 'IRD_A_CN': 17.37, 'IRD_A_LM': 12.69, 'UPS_Runtime': 37.47}, {'DateTime': '9/5/2566 05:39:10', 'Power(W)': 164.6, 'IRD_A_CN': 15.16, 'IRD_A_LM': 10.48, 'UPS_Runtime': 24.22}, {'DateTime': '9/5/2566 05:39:10', 'Power(W)': 49.8, 'IRD_A_CN': 16.82, 'IRD_A_LM': 12.15, 'UPS_Runtime': 43.92}, {'DateTime': '9/5/2566 05:39:10', 'PowerA(W)': 0, 'Return_LossA': 0, 'PowerB(W)': 100, 'Return_LossB': 21, 'IRD_A_CN': 14.1, 'IRD_B_CN': 14.14, 'IRD_A_LM': 9.42, 'IRD_B_LM': 9.46}, {'DateTime': '9/5/2566 05:39:10', 'upper': 1.08, 'lower': 1.08, 'FWD_lower': 4670, 'FWD_upper': 4260}, {'DateTime': '9/5/2566 05:39:09', 'upper': 1.09, 'lower': 1.05, 'FWD_lower': 371, 'FWD_upper': 389}, {'DateTime': '9/5/2566 05:39:10', 'upper': 1.06, 'lower': 1.06, 'FWD_lower': 1620, 'FWD_upper': 1540}, {'DateTime': '9/5/2566 05:39:10', 'FWD_ant': 776000, 'SWR_ant': 1.07}, {'DateTime': '9/5/2566 05:39:10', 'FWD_ant': 295, 'SWR_ant': 1.04}, {'DateTime': '9/5/2566 05:39:10', 'FWD_ant': 257, 'SWR_ant': 1.05}, TimeoutError(), {'DateTime': '9/5/2566 05:39:10', 'loadCHP': 27, 'loadRNG': 25, 'loadPKK': 22, 'loadTSK': 32, 'loadPHT': 57, 'loadKPO': 42, 'loadKAI': 38}
